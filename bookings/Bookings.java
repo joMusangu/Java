@@ -1,6 +1,4 @@
-//Dylan Spies
 package bookings;
-
 import javax.swing.JOptionPane;
 
 public class Bookings {
